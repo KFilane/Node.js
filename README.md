@@ -39,3 +39,14 @@ A typical event is someone trying to access a port on the server
 Node.js files must be initiated on the server before having any effect
 Node.js files have extension ".js"
 
+
+
+REACT :
+
+A well-liked JavaScript package for creating user interfaces, especially for online applications, is called React. Facebook created it and continues to maintain it along with a group of independent developers and businesses. With React, developers can easily design reusable user interface components and effectively manage their states.
+
+Utilizing a virtual DOM (Document Object Model), a thin replica of the real DOM, is one of React's primary characteristics. React optimizes efficiency and improves user experience by comparing the virtual and actual DOMs and only updating the modified sections.
+
+
+React uses a component-based architecture, in which user interfaces (UIs) are constructed from discrete components that may be combined and reused to create more sophisticated user experiences. These elements are able to
+
